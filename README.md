@@ -1,11 +1,13 @@
-# 10thSemesterProject
-The 10th semester project of group 5 of MED10 in 2023
-Members include:
+# User-Centered Pipeline for Synthetic Augmentation of Anomaly Detection Datasets
+
+Unity code for generating synthetic data. Full code and annotations will be available at a later date.
+
+Work on the project:
 
 Alexander Rosbak-Mortensen,
 Marco Jansen,
 Mikkel Bjørndahl Kristensen Tøt,
-Morten Muhlig
+Morten Muhlig,
+Ivan Nikolov
 
-This project consists of an application for controlling generating a traffic simulation for computer vision that is applied to real-life backgrounds.
-The simulation can generate both anomaly based -and normal traffic behaviours. 
+
