@@ -2,6 +2,8 @@
 
 Unity code for generating synthetic data. Full code and annotations will be available at a later date.
 
+The project requires Unity 2021.01 and HDRP rendering pipeline
+
 Work on the project:
 
 Alexander Rosbak-Mortensen,
